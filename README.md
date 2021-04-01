@@ -1,5 +1,5 @@
-# GeyserBot
-A bot for the GeyserMC Discord server
+# RoryBot
+A bot for the RoryMC Discord server
 
 # How to run
 - Clone the repo
